@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
-    "dev": "concurrently \"vite\" \"json-server --watch db.json --port 5000\"",
-    "build": "vite build",
-    "preview": "vite preview",
     "start": "node server.js"
   },
   "dependencies": {
     "json-server": "^0.17.4"
+  },
+  "engines": {
+    "node": "20.x"
   }
 }
