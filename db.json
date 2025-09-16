@@ -1,0 +1,111 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@gmail.com",
+      "password": "admin1234",
+      "name": "Admin1",
+      "myList": [
+        {
+          "adult": false,
+          "backdrop_path": "/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
+          "genre_ids": [
+            878,
+            53
+          ],
+          "id": 755898,
+          "original_language": "en",
+          "original_title": "War of the Worlds",
+          "overview": "Will Radford is a top analyst for Homeland Security who tracks potential threats through a mass surveillance program, until one day an attack by an unknown entity leads him to question whether the government is hiding something from him... and from the rest of the world.",
+          "popularity": 592.4794,
+          "poster_path": "/yvirUYrva23IudARHn3mMGVxWqM.jpg",
+          "release_date": "2025-07-29",
+          "title": "War of the Worlds",
+          "video": false,
+          "vote_average": 4.337,
+          "vote_count": 531
+        }
+      ],
+      "mobile": "+919400307179",
+      "theme": "dark"
+    },
+    {
+      "id": "2",
+      "email": "anandhu@gmail.com",
+      "password": "anandhu123",
+      "name": "Anandhu",
+      "myList": []
+    },
+    {
+      "id": "3",
+      "name": "abhay",
+      "email": "abhay@gmail.com",
+      "password": "abhay123",
+      "myList": []
+    },
+    {
+      "id": "4",
+      "name": "ebin",
+      "email": "ebin@gmail.com",
+      "password": "ebin123",
+      "myList": []
+    },
+    {
+      "id": "5",
+      "name": "anandhu ashokan",
+      "email": "anandhuanandhu@gmail.com",
+      "password": "anandhu123"
+    },
+    {
+      "id": "acf3",
+      "name": "Anandhu",
+      "email": "anandhuashokan40@gmail.com",
+      "password": "anandhu123",
+      "myList": [
+        {
+          "adult": false,
+          "backdrop_path": "/w3Bi0wygeFQctn6AqFTwhGNXRwL.jpg",
+          "genre_ids": [
+            16,
+            35,
+            14,
+            10402
+          ],
+          "id": 803796,
+          "original_language": "en",
+          "original_title": "KPop Demon Hunters",
+          "overview": "When K-pop superstars Rumi, Mira and Zoey aren't selling out stadiums, they're using their secret powers to protect their fans from supernatural threats.",
+          "popularity": 162.0916,
+          "poster_path": "/22AouvwlhlXbe3nrFcjzL24bvWH.jpg",
+          "release_date": "2025-06-20",
+          "title": "KPop Demon Hunters",
+          "video": false,
+          "vote_average": 8.333,
+          "vote_count": 1383
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/6nCy4OrV7gxhDc3lBSUxkNALPej.jpg",
+          "genre_ids": [
+            28,
+            36,
+            18,
+            12,
+            10752
+          ],
+          "id": 1051486,
+          "original_language": "en",
+          "original_title": "Stockholm Bloodbath",
+          "overview": "In 1520, the notorious and power-hungry Danish King Christian II is determined to seize the Swedish crown from Sten Sture, no matter what it takes. Meanwhile, sisters Freja and Anne make a solemn promise to seek revenge on the men who brutally murdered their family. Everything comes to a head in the heart of Stockholm, where the sisters are drawn into a ruthless political struggle between Sweden and Denmark that culminates in a mass execution, presided over by the mad King \"Christian the Tyrant,\" known as the Stockholm Bloodbath.",
+          "popularity": 208.0985,
+          "poster_path": "/tzXOB8nxO70SfSbOhrYcY94x6MI.jpg",
+          "release_date": "2024-01-19",
+          "title": "Stockholm Bloodbath",
+          "video": false,
+          "vote_average": 6.2,
+          "vote_count": 32
+        }
+      ]
+    }
+  ]
+}
